@@ -1,0 +1,2 @@
+# Only needed to BUILD the Windows .exe. The server itself has no dependencies.
+pyinstaller==6.22.3

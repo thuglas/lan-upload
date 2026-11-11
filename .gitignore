@@ -1,0 +1,12 @@
+# Build output
+build/
+dist/
+*.spec
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Uploads that land in the repo folder during testing
+*.part
